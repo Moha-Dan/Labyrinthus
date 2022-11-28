@@ -1,0 +1,9 @@
+{
+	"level":"1",
+	"player":{
+		"UP":"UP",
+		"LEFT":"LEFT",
+		"RIGHT":"RIGHT",
+		"DOWN":"DOWN"
+	}
+}
